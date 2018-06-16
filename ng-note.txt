@@ -1,0 +1,9 @@
+ng-note:
+@decorator
+component
+template
+service
+router
+
+
+@xxxxx
